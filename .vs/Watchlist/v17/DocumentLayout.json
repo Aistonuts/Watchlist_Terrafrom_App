@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\Watchlist\\obj\\Debug\\net8.0\\Watchlist.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Watchlist\\obj\\Debug\\net8.0\\Watchlist.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93966513-D617-4B9E-8C68-AD7BDBFCE7AD}|Watchlist\\Watchlist.csproj|c:\\users\\cmpt\\downloads\\devops\\watchlist_terrafrom_app\\watchlist\\watchlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93966513-D617-4B9E-8C68-AD7BDBFCE7AD}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\watchlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D313A05B-B045-48B5-8114-1B1B8D1796C0}|Watchlist.Data\\Watchlist.Data.csproj|c:\\users\\cmpt\\downloads\\devops\\watchlist_terrafrom_app\\watchlist.data\\watchlist.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D313A05B-B045-48B5-8114-1B1B8D1796C0}|Watchlist.Data\\Watchlist.Data.csproj|solutionrelative:watchlist.data\\watchlist.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93966513-D617-4B9E-8C68-AD7BDBFCE7AD}|Watchlist\\Watchlist.csproj|c:\\users\\cmpt\\downloads\\devops\\watchlist_terrafrom_app\\watchlist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93966513-D617-4B9E-8C68-AD7BDBFCE7AD}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{290d74ba-151f-5f8b-b7df-7de2c7b571a7}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Watchlist.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\Watchlist\\obj\\Debug\\net8.0\\Watchlist.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Watchlist\\obj\\Debug\\net8.0\\Watchlist.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\Watchlist\\obj\\Debug\\net8.0\\Watchlist.AssemblyInfo.cs",
+              "RelativeToolTip": "Watchlist\\obj\\Debug\\net8.0\\Watchlist.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:00:03.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Watchlist.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\Watchlist.Data\\Watchlist.Data.csproj",
+              "RelativeDocumentMoniker": "Watchlist.Data\\Watchlist.Data.csproj",
+              "ToolTip": "C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\Watchlist.Data\\Watchlist.Data.csproj",
+              "RelativeToolTip": "Watchlist.Data\\Watchlist.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T15:54:48.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Watchlist.csproj",
+              "DocumentMoniker": "C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\Watchlist\\Watchlist.csproj",
+              "RelativeDocumentMoniker": "Watchlist\\Watchlist.csproj",
+              "ToolTip": "C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\Watchlist\\Watchlist.csproj",
+              "RelativeToolTip": "Watchlist\\Watchlist.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T15:54:36.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\Watchlist\\appsettings.json",
+              "RelativeDocumentMoniker": "Watchlist\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cmpt\\Downloads\\DevOps\\Watchlist_Terrafrom_App\\Watchlist\\appsettings.json",
+              "RelativeToolTip": "Watchlist\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T15:41:35.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

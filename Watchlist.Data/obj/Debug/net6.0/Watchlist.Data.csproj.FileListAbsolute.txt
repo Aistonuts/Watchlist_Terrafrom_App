@@ -1,0 +1,13 @@
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\bin\Debug\net6.0\Watchlist.Data.deps.json
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\bin\Debug\net6.0\Watchlist.Data.dll
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\bin\Debug\net6.0\Watchlist.Data.pdb
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.csproj.AssemblyReference.cache
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.AssemblyInfoInputs.cache
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.AssemblyInfo.cs
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.csproj.CoreCompileInputs.cache
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.sourcelink.json
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.dll
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\refint\Watchlist.Data.dll
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.pdb
+C:\Users\Cmpt\Downloads\DevOps\Watchlist_Terrafrom_App\Watchlist.Data\obj\Debug\net6.0\ref\Watchlist.Data.dll
